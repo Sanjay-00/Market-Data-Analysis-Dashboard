@@ -19,7 +19,7 @@ An interactive Power BI dashboard designed for real-time market analysis, integr
 
 ## 📊 Live Dashboard
 
-🔗 [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/0fec8cee-44cc-4369-9827-cb8e473d7cbc/c598a918631d2b97a393?experience=power-bi)
+🔗 [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/bc5fbe0d-be8b-4fd9-8225-56457706f0cb/75e6292340fab48f1f8f?experience=power-bi)
 
 ## 🗂️ Data Sources
 
